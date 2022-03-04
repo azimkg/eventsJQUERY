@@ -1,0 +1,63 @@
+.image-div {
+  width: 200px;
+}
+.add-btn {
+  background-color: green;
+  color: #fff;
+  border-radius: 8px;
+  padding: 6px 20px;
+}
+.add-form-inp {
+  border: 1px solid green;
+  padding: 8px 20px;
+  border-radius: 6px;
+}
+.btn-delete {
+  background-color: red;
+  border: 1px solid red;
+  border-radius: 6px;
+  padding: 6px 20px;
+}
+.btn-edit {
+  background-color: orange;
+  border: 1px solid orange;
+  border-radius: 6px;
+  padding: 6px 20px;
+}
+.edit-form {
+  position: absolute;
+  top: 0;
+  left: 0;
+  background-color: rgba(0, 0, 0, 0.548);
+  width: 100vw;
+  height: 100vh;
+  z-index: 2;
+  display: none;
+  justify-content: center;
+  align-items: center;
+}
+.div-modal {
+  width: 700px;
+  height: 300px;
+  background-color: gainsboro;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.btn-save {
+  background-color: green;
+  border-radius: 8px;
+  padding: 8px;
+  margin-left: 20px;
+}
+.btn-close {
+  background-color: orange;
+  margin-left: 20px;
+  border-radius: 8px;
+  padding: 8px;
+}
+.input {
+  border: 2px solid black;
+  border-radius: 8px;
+  padding: 8px;
+}
